@@ -7,6 +7,18 @@ author_profile: true
 
 ## Talks
 
+**Brown University**  
+“Interpretable and Controllable Language Models” [[slides]](https://peterbhase.github.io/files/Interpretable-and-Controllable-Language-Models.pdf)
+
+**Princeton University**  
+“Interpretable and Controllable Language Models” [[slides]](https://peterbhase.github.io/files/Interpretable-and-Controllable-Language-Models.pdf)
+
+**New York University**  
+“Interpretable and Controllable Language Models” [[slides]](https://peterbhase.github.io/files/Interpretable-and-Controllable-Language-Models.pdf)
+
+**University of Pennsylvania**  
+“Interpretable and Controllable Language Models” [[slides]](https://peterbhase.github.io/files/Interpretable-and-Controllable-Language-Models.pdf)
+
 **University of Oxford**  
 “Explainable Machine Learning in NLP: Methods and Evaluation” [[slides]](https://peterbhase.github.io/files/ExplainableMachineLearningNLPSlides.pdf)
 
