@@ -12,15 +12,15 @@ permalink: /research/
 
 **Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Theory of Mind**  
 Swarnadeep Saha, Peter Hase, Mohit Bansal  
-*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2306.09299.pdf) [[code]](https://github.com/swarnaHub/ExplanationIntervention)
+*NeurIPS 2023.* [[pdf]](https://arxiv.org/pdf/2306.09299.pdf) [[code]](https://github.com/swarnaHub/ExplanationIntervention)
 
 **Adaptive Contextual Perception: How to Generalize to New Backgrounds and Ambiguous Objects**  
 Zhuofan Ying, Peter Hase, Mohit Bansal  
-*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2306.05963.pdf) [[code]](https://github.com/zfying/AdaptiveContext)
+*NeurIPS 2023.* [[pdf]](https://arxiv.org/pdf/2306.05963.pdf) [[code]](https://github.com/zfying/AdaptiveContext)
 
 **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models**  
 Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun  
-*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2301.04213.pdf) [[code]](https://github.com/google/belief-localization)
+*NeurIPS 2023.* [[pdf]](https://arxiv.org/pdf/2301.04213.pdf) [[code]](https://github.com/google/belief-localization)
 
 **Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees**  
 Swarnadeep Saha, Shiyue Zhang, Peter Hase, Mohit Bansal  
