@@ -23,6 +23,7 @@ My research interests center on interpretable machine learning and natural langu
 *Email:* peter@cs.unc.edu
 
 ## News
+* 2023 - Three papers accepted to NeurIPS 2023! Our work on (1) [localization and model editing](https://arxiv.org/pdf/2301.04213.pdf), (2) [mechanistic interpretability for vision models](https://arxiv.org/pdf/2306.05963.pdf), and (3) [LMs explaining tasks to weaker agents (teaching)](https://arxiv.org/pdf/2306.09299.pdf).
 * 2023 - Named an [Outstanding Area Chair](https://2023.aclweb.org/program/best_reviewers/) at ACL 2023 (1-1.5% of the pool of reviewers and chairs)   
 * 2023 - New paper out! "Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Theory of Mind" [[pdf]](https://arxiv.org/pdf/2306.09299.pdf) [[code]](https://github.com/swarnaHub/ExplanationIntervention)
 * 2023 - New paper out! "Adaptive Contextual Perception: How to Generalize to New Backgrounds and Ambiguous Objects" [[pdf]](https://arxiv.org/pdf/2306.05963.pdf) [[code]](https://github.com/zfying/AdaptiveContext)  
