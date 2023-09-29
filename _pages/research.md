@@ -15,7 +15,7 @@ Swarnadeep Saha, Peter Hase, Mohit Bansal
 *NeurIPS 2023.* [[pdf]](https://arxiv.org/pdf/2306.09299.pdf) [[code]](https://github.com/swarnaHub/ExplanationIntervention)
 
 **Adaptive Contextual Perception: How to Generalize to New Backgrounds and Ambiguous Objects**  
-Zhuofan Ying, Peter Hase, Mohit Bansal  
+Zhuofan Ying,* Peter Hase,* Mohit Bansal  
 *NeurIPS 2023.* [[pdf]](https://arxiv.org/pdf/2306.05963.pdf) [[code]](https://github.com/zfying/AdaptiveContext)
 
 **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models**  
