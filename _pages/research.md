@@ -10,6 +10,10 @@ permalink: /research/
 
 [Google Scholar Page](https://scholar.google.com/citations?hl=en&user=FO90FgMAAAAJ&view_op=list_works)
 
+**Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks**    
+Vaidehi Patil, Peter Hase, Mohit Bansal  
+*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2309.17410.pdf) [[code]](https://github.com/Vaidehi99/InfoDeletionAttacks)
+
 **Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Theory of Mind**  
 Swarnadeep Saha, Peter Hase, Mohit Bansal  
 *NeurIPS 2023.* [[pdf]](https://arxiv.org/pdf/2306.09299.pdf) [[code]](https://github.com/swarnaHub/ExplanationIntervention)
