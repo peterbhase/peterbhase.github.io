@@ -6,12 +6,12 @@ author_profile: true
 permalink: /research/
 ---
 
-## Research
+# Research
 
 Papers are roughly grouped by topic below. For a full list, see my [Google Scholar Page](https://scholar.google.com/citations?hl=en&user=FO90FgMAAAAJ&view_op=list_works).
 
 
-### Mechanistic Interpretability
+## Mechanistic Interpretability
 
 **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models**  
 Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun  
@@ -21,7 +21,7 @@ Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun
 Zhuofan Ying,* Peter Hase,* Mohit Bansal  
 *NeurIPS 2023.* [[pdf]](https://arxiv.org/pdf/2306.05963.pdf) [[code]](https://github.com/zfying/AdaptiveContext)
 
-### Neural Module Programs / Process Supervision
+## Neural Module Programs / Process Supervision
 
 **Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees**  
 Swarnadeep Saha, Shiyue Zhang, Peter Hase, Mohit Bansal  
@@ -35,7 +35,7 @@ Zhuofan Ying,* Peter Hase,* Mohit Bansal
 Peter Hase, Mohit Bansal  
 *ACL 2022 Workshop on Natural Language Supervision.* [[pdf v2]](https://peterbhase.github.io/files/when-expl-help-LNLS-ACL2022.pdf) [[pdf v1]](https://arxiv.org/pdf/2102.02201.pdf) [[code]](https://github.com/peterbhase/ExplanationRoles)
 
-### Natural Language Explanations
+## Natural Language Explanations
 
 **Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Theory of Mind**  
 Swarnadeep Saha, Peter Hase, Mohit Bansal  
@@ -49,7 +49,7 @@ Swarnadeep Saha, Peter Hase, Nazneen Rajani, Mohit Bansal
 Peter Hase, Shiyue Zhang, Harry Xie, Mohit Bansal  
 *Findings of EMNLP.* [[pdf]](https://arxiv.org/pdf/2010.04119.pdf) [[code]](https://github.com/peterbhase/LAS-NL-Explanations)  
 
-### Model Editing
+## Model Editing
 
 **Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks**    
 Vaidehi Patil,* Peter Hase,* Mohit Bansal  
@@ -59,7 +59,7 @@ Vaidehi Patil,* Peter Hase,* Mohit Bansal
 Peter Hase, Mona Diab, Asli Celikyilmaz, Xian Li, Zornitsa Kozareva, Veselin Stoyanov, Mohit Bansal, Srinivasan Iyer  
 *EACL 2023.* [[pdf]](https://arxiv.org/pdf/2111.13654.pdf) [[code]](https://github.com/peterbhase/SLAG-Belief-Updating)
 
-### XAI Methods & Evaluation
+## XAI Methods & Evaluation
 
 **The Out-of-Distribution Problem in Explainability and Search Methods for Feature Importance Explanations**  
 Peter Hase, Harry Xie, Mohit Bansal  
@@ -77,13 +77,13 @@ Peter Hase, Mohit Bansal
 Peter Hase, Chaofan Chen, Oscar Li, Cynthia Rudin  
 *AAAI-HCOMP 2019.* [[pdf]](https://arxiv.org/pdf/1906.10651.pdf) [[code]](https://github.com/peterbhase/interpretable-image)  
 
-### Algorithmic Recourse
+## Algorithmic Recourse
 
 **Low-Cost Algorithmic Recourse for Users With Uncertain Cost Functions**  
 Prateek Yadav, Peter Hase, Mohit Bansal  
 *Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2111.01235.pdf) [[code]](https://github.com/prateeky2806/EMC-COLS-recourse)  
 
-### Additional Topics
+## Additional Topics
 
 **Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback**  
 Stephen Casper, Xander Davies, et al. including Peter Hase  
