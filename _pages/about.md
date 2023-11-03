@@ -26,11 +26,12 @@ My research interests center on interpretable machine learning and natural langu
 5. XAI Methods & Evaluation
 6. Algorithmic Recourse
 
-Broadly, I am interested in explaining model behavior and improving model safety. I see language models as a good object of study since we lack complete explanations for their behavior and human language provides a rich means of interaction with models. I find work on clarifying concepts and developing strong evaluation procedures especially valuable in the above areas.
+Broadly, I am interested in explaining model behavior and improving model safety. I see language models as a good object of study since we lack complete explanations for their behavior and human language provides a rich means of interaction with models. I find work on clarifying concepts and developing strong evaluation procedures especially valuable.
 
 *Email:* peter@cs.unc.edu
 
 ## News
+* 2023 - Serving as an Area Chair for EACL 2024 in the Interpretability and Analysis of Models for NLP track 
 * 2023 - New paper out! "Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks" [[pdf]](https://arxiv.org/pdf/2309.17410.pdf) [[code]](https://github.com/Vaidehi99/InfoDeletionAttacks)  
 * 2023 - Three papers accepted to NeurIPS 2023! Our work on (1) [localization and model editing](https://arxiv.org/pdf/2301.04213.pdf), (2) [mechanistic interpretability for vision models](https://arxiv.org/pdf/2306.05963.pdf), and (3) [LMs explaining tasks to weaker agents (teaching)](https://arxiv.org/pdf/2306.09299.pdf).
 * 2023 - Named an [Outstanding Area Chair](https://2023.aclweb.org/program/best_reviewers/) at ACL 2023 (1-1.5% of the pool of reviewers and chairs)   
