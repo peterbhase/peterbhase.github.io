@@ -33,7 +33,7 @@ Zhuofan Ying,* Peter Hase,* Mohit Bansal
 
 **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data**  
 Peter Hase, Mohit Bansal  
-*ACL 2022 Workshop on Natural Language Supervision.* [[pdf v2]](https://peterbhase.github.io/files/when-expl-help-LNLS-ACL2022.pdf) [[pdf v1]](https://arxiv.org/pdf/2102.02201.pdf) [[code]](https://github.com/peterbhase/ExplanationRoles)
+*ACL 2022 Workshop on Natural Language Supervision (Spotlight).* [[pdf v2]](https://peterbhase.github.io/files/when-expl-help-LNLS-ACL2022.pdf) [[pdf v1]](https://arxiv.org/pdf/2102.02201.pdf) [[code]](https://github.com/peterbhase/ExplanationRoles)
 
 ## Natural Language Explanations
 
@@ -87,7 +87,7 @@ Prateek Yadav, Peter Hase, Mohit Bansal
 
 **Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback**  
 Stephen Casper, Xander Davies, et al. including Peter Hase  
-*Preprint on arXiv* [[pdf]](https://arxiv.org/abs2307.15217)  
+*Preprint on arXiv* [[pdf]](https://arxiv.org/pdf/2307.15217.pdf)  
 
 **GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models**  
 Archiki Prasad, Peter Hase, Xiang Zhou, Mohit Bansal  
