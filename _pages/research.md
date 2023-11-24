@@ -18,10 +18,10 @@ Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun
 *NeurIPS 2023 (Spotlight).* [[pdf]](https://arxiv.org/pdf/2301.04213.pdf) [[code]](https://github.com/google/belief-localization)
 
 **Adaptive Contextual Perception: How to Generalize to New Backgrounds and Ambiguous Objects**  
-Zhuofan Ying,* Peter Hase,* Mohit Bansal  
+Zhuofan Ying, Peter Hase, Mohit Bansal  
 *NeurIPS 2023.* [[pdf]](https://arxiv.org/pdf/2306.05963.pdf) [[code]](https://github.com/zfying/AdaptiveContext)
 
-## Neural Module Programs / Process Supervision
+## Process Supervision / Supervised Reasoning
 
 **Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees**  
 Swarnadeep Saha, Shiyue Zhang, Peter Hase, Mohit Bansal  
