@@ -21,7 +21,7 @@ Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun
 Zhuofan Ying, Peter Hase, Mohit Bansal  
 *NeurIPS 2023.* [[pdf]](https://arxiv.org/pdf/2306.05963.pdf) [[code]](https://github.com/zfying/AdaptiveContext)
 
-## Process Supervision / Supervised Reasoning
+## Supervised and Decomposable Reasoning  
 
 **Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees**  
 Swarnadeep Saha, Shiyue Zhang, Peter Hase, Mohit Bansal  
