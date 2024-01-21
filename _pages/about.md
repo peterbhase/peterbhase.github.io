@@ -31,6 +31,8 @@ Broadly, I am interested in explaining model behavior and improving model safety
 *Email:* peter@cs.unc.edu
 
 ## News
+* 2024 - New paper out! "The Unreasonable Effectiveness of Easy Training Data for Hard Tasks" [[pdf]](https://arxiv.org/pdf/2401.06751.pdf) [[code]](https://github.com/allenai/easy-to-hard-generalization)
+* 2024 - Paper accepted to ICLR with a spotlight: "Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks" [[pdf]](https://arxiv.org/pdf/2309.17410.pdf) [[code]](https://github.com/Vaidehi99/InfoDeletionAttacks)  
 * 2023 - Serving as an Area Chair for EACL 2024 in the Interpretability and Analysis of Models for NLP track 
 * 2023 - New paper out! "Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks" [[pdf]](https://arxiv.org/pdf/2309.17410.pdf) [[code]](https://github.com/Vaidehi99/InfoDeletionAttacks)  
 * 2023 - Three papers accepted to NeurIPS 2023! Our work on (1) [localization and model editing](https://arxiv.org/pdf/2301.04213.pdf), (2) [mechanistic interpretability for vision models](https://arxiv.org/pdf/2306.05963.pdf), and (3) [LMs explaining tasks to weaker agents (teaching)](https://arxiv.org/pdf/2306.09299.pdf).
