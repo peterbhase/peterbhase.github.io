@@ -53,7 +53,7 @@ Peter Hase, Shiyue Zhang, Harry Xie, Mohit Bansal
 
 **Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks**    
 Vaidehi Patil,* Peter Hase,* Mohit Bansal  
-*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2309.17410.pdf) [[code]](https://github.com/Vaidehi99/InfoDeletionAttacks)
+*ICLR 2024 (Spotlight).* [[pdf]](https://arxiv.org/pdf/2309.17410.pdf) [[code]](https://github.com/Vaidehi99/InfoDeletionAttacks)
 
 **Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs**  
 Peter Hase, Mona Diab, Asli Celikyilmaz, Xian Li, Zornitsa Kozareva, Veselin Stoyanov, Mohit Bansal, Srinivasan Iyer  
@@ -83,11 +83,15 @@ Peter Hase, Chaofan Chen, Oscar Li, Cynthia Rudin
 Prateek Yadav, Peter Hase, Mohit Bansal  
 *Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2111.01235.pdf) [[code]](https://github.com/prateeky2806/EMC-COLS-recourse)  
 
-## Additional Topics
+## Additional Topics  
+
+**The Unreasonable Effectiveness of Easy Training Data for Hard Tasks**  
+Peter Hase, Mohit Bansal, Peter Clark, Sarah Wiegreffe  
+*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2401.06751.pdf) [[code]](https://github.com/allenai/easy-to-hard-generalization)
 
 **Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback**  
 Stephen Casper, Xander Davies, et al. including Peter Hase  
-*Preprint on arXiv* [[pdf]](https://arxiv.org/pdf/2307.15217.pdf)  
+*TMLR 2023.* [[pdf]](https://arxiv.org/pdf/2307.15217.pdf)  
 
 **GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models**  
 Archiki Prasad, Peter Hase, Xiang Zhou, Mohit Bansal  
