@@ -30,6 +30,8 @@ Broadly, I am interested in explaining model behavior and improving model safety
 
 *Email:* peter@cs.unc.edu
 
+[Google Scholar Page](https://scholar.google.com/citations?user=FO90FgMAAAAJ&hl=en)
+
 ## News
 * 2024 - New paper out! "The Unreasonable Effectiveness of Easy Training Data for Hard Tasks" [[pdf]](https://arxiv.org/pdf/2401.06751.pdf) [[code]](https://github.com/allenai/easy-to-hard-generalization)
 * 2024 - Paper accepted to ICLR with a spotlight: "Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks" [[pdf]](https://arxiv.org/pdf/2309.17410.pdf) [[code]](https://github.com/Vaidehi99/InfoDeletionAttacks)  
