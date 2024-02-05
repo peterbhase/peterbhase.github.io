@@ -21,6 +21,36 @@ Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun
 Zhuofan Ying, Peter Hase, Mohit Bansal  
 *NeurIPS 2023.* [[pdf]](https://arxiv.org/pdf/2306.05963.pdf) [[code]](https://github.com/zfying/AdaptiveContext)
 
+## Natural Language Explanations
+
+**Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Personalization**  
+Swarnadeep Saha, Peter Hase, Mohit Bansal  
+*NeurIPS 2023.* [[pdf]](https://arxiv.org/pdf/2306.09299.pdf) [[code]](https://github.com/swarnaHub/ExplanationIntervention)
+
+**Are Hard Examples also Harder to Explain? A Study with Human and Model-Generated Explanations**  
+Swarnadeep Saha, Peter Hase, Nazneen Rajani, Mohit Bansal  
+*EMNLP 2022.* [[pdf]](https://arxiv.org/pdf/2211.07517.pdf) [[code]](https://github.com/swarnaHub/ExplanationHardness)
+
+**Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?**  
+Peter Hase, Shiyue Zhang, Harry Xie, Mohit Bansal  
+*Findings of EMNLP 2020.* [[pdf]](https://arxiv.org/pdf/2010.04119.pdf) [[code]](https://github.com/peterbhase/LAS-NL-Explanations)  
+
+## Model Editing
+
+**Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks**    
+Vaidehi Patil,* Peter Hase,* Mohit Bansal  
+*ICLR 2024 (Spotlight).* [[pdf]](https://arxiv.org/pdf/2309.17410.pdf) [[code]](https://github.com/Vaidehi99/InfoDeletionAttacks)
+
+**Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs**  
+Peter Hase, Mona Diab, Asli Celikyilmaz, Xian Li, Zornitsa Kozareva, Veselin Stoyanov, Mohit Bansal, Srinivasan Iyer  
+*EACL 2023.* [[pdf]](https://arxiv.org/pdf/2111.13654.pdf) [[code]](https://github.com/peterbhase/SLAG-Belief-Updating)
+
+## Scalable Oversight
+
+**The Unreasonable Effectiveness of Easy Training Data for Hard Tasks**  
+Peter Hase, Mohit Bansal, Peter Clark, Sarah Wiegreffe  
+*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2401.06751.pdf) [[code]](https://github.com/allenai/easy-to-hard-generalization)
+
 ## Supervised and Decomposable Reasoning  
 
 **Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees**  
@@ -34,30 +64,6 @@ Zhuofan Ying,* Peter Hase,* Mohit Bansal
 **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data**  
 Peter Hase, Mohit Bansal  
 *ACL 2022 Workshop on Natural Language Supervision (Spotlight).* [[pdf v2]](https://peterbhase.github.io/files/when-expl-help-LNLS-ACL2022.pdf) [[pdf v1]](https://arxiv.org/pdf/2102.02201.pdf) [[code]](https://github.com/peterbhase/ExplanationRoles)
-
-## Natural Language Explanations
-
-**Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Personalization**  
-Swarnadeep Saha, Peter Hase, Mohit Bansal  
-*NeurIPS 2023.* [[pdf]](https://arxiv.org/pdf/2306.09299.pdf) [[code]](https://github.com/swarnaHub/ExplanationIntervention)
-
-**Are Hard Examples also Harder to Explain? A Study with Human and Model-Generated Explanations**  
-Swarnadeep Saha, Peter Hase, Nazneen Rajani, Mohit Bansal  
-*EMNLP 2022.* [[pdf]](https://arxiv.org/pdf/2211.07517.pdf) [[code]](https://github.com/swarnaHub/ExplanationHardness)
-
-**Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?**  
-Peter Hase, Shiyue Zhang, Harry Xie, Mohit Bansal  
-*Findings of EMNLP.* [[pdf]](https://arxiv.org/pdf/2010.04119.pdf) [[code]](https://github.com/peterbhase/LAS-NL-Explanations)  
-
-## Model Editing
-
-**Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks**    
-Vaidehi Patil,* Peter Hase,* Mohit Bansal  
-*ICLR 2024 (Spotlight).* [[pdf]](https://arxiv.org/pdf/2309.17410.pdf) [[code]](https://github.com/Vaidehi99/InfoDeletionAttacks)
-
-**Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs**  
-Peter Hase, Mona Diab, Asli Celikyilmaz, Xian Li, Zornitsa Kozareva, Veselin Stoyanov, Mohit Bansal, Srinivasan Iyer  
-*EACL 2023.* [[pdf]](https://arxiv.org/pdf/2111.13654.pdf) [[code]](https://github.com/peterbhase/SLAG-Belief-Updating)
 
 ## XAI Methods & Evaluation
 
@@ -77,17 +83,7 @@ Peter Hase, Mohit Bansal
 Peter Hase, Chaofan Chen, Oscar Li, Cynthia Rudin  
 *AAAI-HCOMP 2019.* [[pdf]](https://arxiv.org/pdf/1906.10651.pdf) [[code]](https://github.com/peterbhase/interpretable-image)  
 
-## Algorithmic Recourse
-
-**Low-Cost Algorithmic Recourse for Users With Uncertain Cost Functions**  
-Prateek Yadav, Peter Hase, Mohit Bansal  
-*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2111.01235.pdf) [[code]](https://github.com/prateeky2806/EMC-COLS-recourse)  
-
 ## Additional Topics  
-
-**The Unreasonable Effectiveness of Easy Training Data for Hard Tasks**  
-Peter Hase, Mohit Bansal, Peter Clark, Sarah Wiegreffe  
-*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2401.06751.pdf) [[code]](https://github.com/allenai/easy-to-hard-generalization)
 
 **Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback**  
 Stephen Casper, Xander Davies, et al. including Peter Hase  
@@ -96,6 +92,10 @@ Stephen Casper, Xander Davies, et al. including Peter Hase
 **GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models**  
 Archiki Prasad, Peter Hase, Xiang Zhou, Mohit Bansal  
 *EACL 2023.* [[pdf]](https://arxiv.org/pdf/2203.07281.pdf) [[code]](https://github.com/archiki/GrIPS)
+
+**Low-Cost Algorithmic Recourse for Users With Uncertain Cost Functions**  
+Prateek Yadav, Peter Hase, Mohit Bansal  
+*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2111.01235.pdf) [[code]](https://github.com/prateeky2806/EMC-COLS-recourse)  
 
 **Shall I Compare Thee to a Machine-Written Sonnet? An Approach to Algorithmic Sonnet Generation**  
 John Benhardt,* Peter Hase,* Liuyi Zhu,* Cynthia Rudin  
