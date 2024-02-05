@@ -20,11 +20,12 @@ I am a fifth-year PhD student in the [UNC-NLP](https://nlp.cs.unc.edu/) lab at t
 
 My research interests center on interpretable machine learning and natural language processing. Below are some of the main problems I’ve worked on (publications [here](https://peterbhase.github.io/research/)):
 1. Mechanistic Interpretability
-2. Supervised and Decomposable Reasoning
-3. Natural Language Explanations
-4. Model Editing
-5. XAI Methods & Evaluation
-6. Algorithmic Recourse
+2. Natural Language Explanations
+3. Model Editing
+4. Scalable Oversight
+5. Supervised and Decomposable Reasoning
+6. XAI Methods & Evaluation
+7. Algorithmic Recourse
 
 Broadly, I am interested in explaining model behavior and improving model safety. I see language models as a good object of study since we lack complete explanations for their behavior and human language provides a rich means of interaction with models. I find work on clarifying concepts and developing strong evaluation procedures especially valuable.
 
