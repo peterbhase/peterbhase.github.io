@@ -37,7 +37,7 @@ Peter Hase, Mohit Bansal
 
 ## Natural Language Explanations
 
-**Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Theory of Mind**  
+**Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Personalization**  
 Swarnadeep Saha, Peter Hase, Mohit Bansal  
 *NeurIPS 2023.* [[pdf]](https://arxiv.org/pdf/2306.09299.pdf) [[code]](https://github.com/swarnaHub/ExplanationIntervention)
 
