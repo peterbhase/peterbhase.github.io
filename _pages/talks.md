@@ -7,6 +7,15 @@ author_profile: true
 
 ## Talks
 
+**Stanford NLP Seminar**  
+"Controlling and Editing Knowledge in Large Language Models" [[slides]](https://peterbhase.github.io/files/Stanford_Talk.pdf)  
+
+**OpenAI**  
+"The Unreasonable Effectiveness of Easy Training Data for Hard Tasks" [[slides]](https://peterbhase.github.io/files/CHAI_Presentation.pdf)  
+
+**CHAI, UC Berkeley**  
+"The Unreasonable Effectiveness of Easy Training Data for Hard Tasks" [[slides]](https://peterbhase.github.io/files/CHAI_Presentation.pdf)  
+
 **Brown University**  
 “Interpretable and Controllable Language Models” [[slides]](https://peterbhase.github.io/files/Interpretable-and-Controllable-Language-Models.pdf)
 
