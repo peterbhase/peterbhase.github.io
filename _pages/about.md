@@ -33,6 +33,9 @@ Broadly, I am interested in explaining model behavior and improving model safety
 [Google Scholar Page](https://scholar.google.com/citations?user=FO90FgMAAAAJ&hl=en)
 
 ## News
+* 2024 - Invited talk at Stanford [NLP Seminar](https://nlp.stanford.edu/seminar/) on "Controlling and Editing Knowledge in Large Language Models" [[slides]](https://peterbhase.github.io/files/Stanford_Talk.pdf)  
+* 2024 - Invited talks at OpenAI and [CHAI](https://humancompatible.ai/) (UC Berkeley) on "The Unreasonable Effectiveness of Easy Training Data for Hard Tasks
+" [[slides]](https://peterbhase.github.io/files/CHAI_Presentation.pdf)  
 * 2024 - New paper out! "The Unreasonable Effectiveness of Easy Training Data for Hard Tasks" [[pdf]](https://arxiv.org/pdf/2401.06751.pdf) [[code]](https://github.com/allenai/easy-to-hard-generalization)
 * 2024 - Paper accepted to ICLR with a spotlight: "Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks" [[pdf]](https://arxiv.org/pdf/2309.17410.pdf) [[code]](https://github.com/Vaidehi99/InfoDeletionAttacks)  
 * 2023 - Serving as an Area Chair for EACL 2024 in the Interpretability and Analysis of Models for NLP track 
