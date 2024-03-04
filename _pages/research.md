@@ -37,6 +37,10 @@ Peter Hase, Shiyue Zhang, Harry Xie, Mohit Bansal
 
 ## Model Editing
 
+**Rethinking Machine Unlearning for Large Language Models**  
+Sijia Liu, Yuanshun Yao, et al. including Peter Hase  
+*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2402.08787.pdf)  
+
 **Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks**    
 Vaidehi Patil,* Peter Hase,* Mohit Bansal  
 *ICLR 2024 (Spotlight).* [[pdf]](https://arxiv.org/pdf/2309.17410.pdf) [[code]](https://github.com/Vaidehi99/InfoDeletionAttacks)
