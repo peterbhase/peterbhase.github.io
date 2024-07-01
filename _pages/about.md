@@ -16,7 +16,7 @@ redirect_from:
 
 ## About Me
 
-I am a fifth-year PhD student in the [UNC-NLP](https://nlp.cs.unc.edu/) lab at the University of North Carolina at Chapel Hill, where I am advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My work at UNC is supported by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/) and previously by a [Royster Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/membership.html). Before this, I graduated with a bachelor's degree from Duke University, where my thesis advisor was [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). At Duke I was supported by a [Trinity Scholarship](https://ousf.duke.edu/merit-scholarships/trinity-scholars-program/). 
+I recently finished my PhD in the [UNC-NLP](https://nlp.cs.unc.edu/) lab at the University of North Carolina at Chapel Hill, where I was advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My work at UNC was supported by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/) and previously by a [Royster Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/membership.html). Before this, I graduated with a bachelor's degree from Duke University, where my thesis advisor was [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). At Duke I was supported by a [Trinity Scholarship](https://ousf.duke.edu/merit-scholarships/trinity-scholars-program/). 
 
 My research interests center on interpretable machine learning and natural language processing. Below are some of the main problems I’ve worked on (publications [here](https://peterbhase.github.io/research/)):
 1. Mechanistic Interpretability
@@ -33,6 +33,7 @@ Broadly, I am interested in explaining model behavior and improving model safety
 [Google Scholar Page](https://scholar.google.com/citations?user=FO90FgMAAAAJ&hl=en)
 
 ## News
+* 2024 - I graduated! My thesis was on "[Interpretable and Controllable Language Models](https://peterbhase.github.io/files/hase_thesis.pdf)", and you can watch my defense [here](https://www.youtube.com/watch?v=e0kIoAMqAEg&feature=youtu.be). I have to thank a lot of people for this, and hopefully most of them are mentioned in [these acknowledgments](https://peterbhase.github.io/files/hase_thesis.pdf#page=3). 
 * 2024 - Invited talk at Stanford [NLP Seminar](https://nlp.stanford.edu/seminar/) on "Controlling and Editing Knowledge in Large Language Models" [[slides]](https://peterbhase.github.io/files/Stanford_Talk.pdf)  
 * 2024 - Invited talks at OpenAI and [CHAI](https://humancompatible.ai/) (UC Berkeley) on "The Unreasonable Effectiveness of Easy Training Data for Hard Tasks
 " [[slides]](https://peterbhase.github.io/files/CHAI_Presentation.pdf)  
