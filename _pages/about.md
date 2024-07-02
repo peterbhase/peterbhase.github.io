@@ -33,6 +33,7 @@ Broadly, I am interested in explaining model behavior and improving model safety
 [Google Scholar Page](https://scholar.google.com/citations?user=FO90FgMAAAAJ&hl=en)
 
 ## News
+* 2024 - My last PhD paper is out! "The Unreasonable Effectiveness of Easy Training Data for Hard Tasks" [[pdf]](https://arxiv.org/pdf/2406.19354) [[code]](https://github.com/peterbhase/LLM-belief-revision)
 * 2024 - I graduated! My thesis was on "[Interpretable and Controllable Language Models](https://peterbhase.github.io/files/hase_thesis.pdf)", and you can watch my defense [here](https://www.youtube.com/watch?v=e0kIoAMqAEg&feature=youtu.be). I have to thank a lot of people for this, and hopefully most of them are mentioned in [these acknowledgments](https://peterbhase.github.io/files/hase_thesis.pdf#page=3). 
 * 2024 - Invited talk at Stanford [NLP Seminar](https://nlp.stanford.edu/seminar/) on "Controlling and Editing Knowledge in Large Language Models" [[slides]](https://peterbhase.github.io/files/Stanford_Talk.pdf)  
 * 2024 - Invited talks at OpenAI and [CHAI](https://humancompatible.ai/) (UC Berkeley) on "The Unreasonable Effectiveness of Easy Training Data for Hard Tasks
