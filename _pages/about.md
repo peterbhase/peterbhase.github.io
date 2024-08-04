@@ -16,23 +16,22 @@ redirect_from:
 
 ## About Me
 
-I recently finished my PhD in the [UNC-NLP](https://nlp.cs.unc.edu/) lab at the University of North Carolina at Chapel Hill, where I was advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My work at UNC was supported by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/) and previously by a [Royster Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/membership.html). Before this, I graduated with a bachelor's degree from Duke University, where my thesis advisor was [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). At Duke I was supported by a [Trinity Scholarship](https://ousf.duke.edu/merit-scholarships/trinity-scholars-program/). 
+I am an AI researcher currently doing a residency at Anthropic. Before this, I completed my PhD at the University of North Carolina at Chapel Hill, where I was advised by Mohit Bansal. My work at UNC was supported by a Google PhD Fellowship and previously by a Royster Fellowship.
 
-My research interests center on interpretable machine learning and natural language processing. Below are some of the main problems I’ve worked on (publications [here](https://peterbhase.github.io/research/)):
-1. Mechanistic Interpretability
-2. Natural Language Explanations
-3. Model Editing
-4. Scalable Oversight
-5. Supervised and Decomposable Reasoning
-6. XAI Methods & Evaluation
+My research focuses on AI safety and NLP. Below are some of the main areas I am interested in:
+1. Interpretability
+2. Model Editing
+3. Scalable Oversight
 
-Broadly, I am interested in explaining model behavior and improving model safety. I see language models as a good object of study since we lack complete explanations for their behavior and human language provides a rich means of interaction with models. I find work on clarifying concepts and developing strong evaluation procedures especially valuable.
+Broadly, I am interested in explaining and controlling the behavior of machine learning models. I see language models as a good object of study since we lack complete explanations for their behavior and human language provides a rich means of interaction with models. I find work on clarifying concepts and developing strong evaluation procedures especially valuable.
 
 *Email:* peter@cs.unc.edu
 
 [Google Scholar Page](https://scholar.google.com/citations?user=FO90FgMAAAAJ&hl=en)
 
 ## News
+* 2024 - I am starting a residency at Anthropic! I will be working with [Sam Bowman](https://cims.nyu.edu/~sbowman/) on topics in AI safety. 
+* 2024 - We have several new papers on (1) [controlling how much LLMs verbalize vs. internalize their reasoning](https://arxiv.org/pdf/2407.14414), (2), [calibrating explicit and implicit confidence markers in LLM outputs](https://arxiv.org/pdf/2405.21028), and (3) [defining a philosophical basis for epistemic rationality in LLMs](https://arxiv.org/pdf/2406.03442). 
 * 2024 - My last PhD paper is out! "The Unreasonable Effectiveness of Easy Training Data for Hard Tasks" [[pdf]](https://arxiv.org/pdf/2406.19354) [[code]](https://github.com/peterbhase/LLM-belief-revision)
 * 2024 - I graduated! My thesis was on "[Interpretable and Controllable Language Models](https://peterbhase.github.io/files/hase_thesis.pdf)", and you can watch my defense [here](https://www.youtube.com/watch?v=e0kIoAMqAEg&feature=youtu.be). I have to thank a lot of people for this, and hopefully most of them are mentioned in [these acknowledgments](https://peterbhase.github.io/files/hase_thesis.pdf#page=3). 
 * 2024 - Invited talk at Stanford [NLP Seminar](https://nlp.stanford.edu/seminar/) on "Controlling and Editing Knowledge in Large Language Models" [[slides]](https://peterbhase.github.io/files/Stanford_Talk.pdf)  
