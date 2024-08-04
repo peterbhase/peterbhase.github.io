@@ -7,6 +7,12 @@ author_profile: true
 
 ## Talks
 
+**Harvard University**  
+"Controlling and Editing Knowledge in Large Language Models" [[slides]](https://peterbhase.github.io/files/Stanford_Talk.pdf)  
+
+**Pacific Northwest National Laboratories**  
+"Controlling and Editing Knowledge in Large Language Models" [[slides]](https://peterbhase.github.io/files/Stanford_Talk.pdf)  
+
 **Stanford NLP Seminar**  
 "Controlling and Editing Knowledge in Large Language Models" [[slides]](https://peterbhase.github.io/files/Stanford_Talk.pdf)  
 
