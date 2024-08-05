@@ -102,16 +102,16 @@ _Preprint on arXiv._ [[pdf](https://arxiv.org/pdf/2405.21028)] [[code](https://g
 Thomas Hofweber, Peter Hase, Elias Stengel-Eskin, and Mohit Bansal  
 _Preprint on arXiv._ [[pdf](https://arxiv.org/pdf/2406.03442)]
 
+**INSPIRE: A Framework for Integrating Individual User Preferences in Recourse**  
+Prateek Yadav, Peter Hase, Mohit Bansal  
+*TMLR 2024.* [[pdf]](https://openreview.net/pdf?id=6yzIuqKGnq) [[code]](https://github.com/prateeky2806/EMC-COLS-recourse)  
+
 **Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback**  
 Stephen Casper, Xander Davies, et al. including Peter Hase  
-*TMLR 2023.* [[pdf]](https://arxiv.org/pdf/2307.15217.pdf)  
+*TMLR 2023.* [[pdf]](https://openreview.net/pdf?id=bx24KpJ4Eb)  
 
 **GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models**  
 Archiki Prasad, Peter Hase, Xiang Zhou, Mohit Bansal  
 *EACL 2023.* [[pdf]](https://arxiv.org/pdf/2203.07281.pdf) [[code]](https://github.com/archiki/GrIPS)
-
-**Low-Cost Algorithmic Recourse for Users With Uncertain Cost Functions**  
-Prateek Yadav, Peter Hase, Mohit Bansal  
-*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2111.01235.pdf) [[code]](https://github.com/prateeky2806/EMC-COLS-recourse)  
 
 
