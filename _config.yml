@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Peter Hase"
   avatar           : "s2.jpg"
-  bio              : "PhD student at UNC-NLP. Interested in interpretable ML, NLP, and AI Safety."
-  location         : "Chapel Hill, NC"
+  bio              : "AI researcher interested in AI safety and NLP"
+  location         : "San Francisco, CA"
+  twitter          : "peterbhase"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "peter@cs.unc.edu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -109,7 +109,6 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
   vine             :
   weibo            :
   xing             :
