@@ -30,6 +30,7 @@ Broadly, I am interested in explaining and controlling the behavior of machine l
 [Google Scholar Page](https://scholar.google.com/citations?user=FO90FgMAAAAJ&hl=en)
 
 ## News
+* 2024 - I will serve as a Senior Area Chair for ACL 2025 in the Interpretability and Analysis of Models for NLP track
 * 2024 - I am starting a residency at Anthropic! I will be working with [Sam Bowman](https://cims.nyu.edu/~sbowman/) on topics in AI safety. 
 * 2024 - We have several new papers on (1) [controlling how much LLMs verbalize vs. internalize their reasoning](https://arxiv.org/pdf/2407.14414), (2), [calibrating explicit and implicit confidence markers in LLM outputs](https://arxiv.org/pdf/2405.21028), and (3) [defining a philosophical basis for epistemic rationality in LLMs](https://arxiv.org/pdf/2406.03442). 
 * 2024 - My last PhD paper is out! "Fundamental Problems With Model Editing: How Should Rational Belief Revision Work in LLMs?" [[pdf]](https://arxiv.org/pdf/2406.19354) [[code]](https://github.com/peterbhase/LLM-belief-revision)
