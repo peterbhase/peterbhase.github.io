@@ -18,7 +18,7 @@ _Preprint on arXiv._ [[pdf](https://arxiv.org/pdf/2407.14414)] [[code](https://g
 
 **Foundational Challenges in Assuring Alignment and Safety of Large Language Models** (Sec. 3.4)  
 Usman Anwar and 37 others including Peter Hase  
-_Preprint on arXiv._ [[pdf](https://arxiv.org/pdf/2404.09932)]
+_TMLR 2024._ [[pdf](https://arxiv.org/pdf/2404.09932)]
 
 **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models**  
 Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun  
@@ -68,7 +68,7 @@ Peter Hase, Shiyue Zhang, Harry Xie, Mohit Bansal
 
 **Fundamental Problems With Model Editing: How Should Rational Belief Revision Work in LLMs?**  
 Peter Hase, Thomas Hofweber, Xiang Zhou, Elias Stengel-Eskin, Mohit Bansal  
-*Preprint on arXiv.* [[pdf](https://arxiv.org/pdf/2406.19354)] [[code](https://github.com/peterbhase/LLM-belief-revision)]
+*TMLR 2024.* [[pdf](https://arxiv.org/pdf/2406.19354)] [[code](https://github.com/peterbhase/LLM-belief-revision)]
 
 **Rethinking Machine Unlearning for Large Language Models**  
 Sijia Liu, Yuanshun Yao, et al. including Peter Hase  
@@ -94,9 +94,13 @@ Swarnadeep Saha, Peter Hase, Mohit Bansal
 
 ## Additional Topics  
 
+**Teaching Models to Balance Resisting and Accepting Persuasion**  
+Elias Stengel-Eskin, Peter Hase, and Mohit Bansal  
+_Preprint on arXiv._ [[pdf](https://arxiv.org/pdf/2410.14596)] [[code](https://github.com/esteng/persuasion_balanced_training)]
+
 **LACIE: Listener-Aware Finetuning for Confidence Calibration in Large Language Models**  
 Elias Stengel-Eskin, Peter Hase, and Mohit Bansal  
-_Preprint on arXiv._ [[pdf](https://arxiv.org/pdf/2405.21028)] [[code](https://github.com/esteng/pragmatic_calibration)]
+_NeurIPS 2024._ [[pdf](https://arxiv.org/pdf/2405.21028)] [[code](https://github.com/esteng/pragmatic_calibration)]
 
 **Are Language Models Rational? The Case of Coherence Norms and Belief Revision**  
 Thomas Hofweber, Peter Hase, Elias Stengel-Eskin, and Mohit Bansal  
