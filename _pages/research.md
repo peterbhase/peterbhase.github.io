@@ -70,9 +70,13 @@ Peter Hase, Shiyue Zhang, Harry Xie, Mohit Bansal
 Peter Hase, Thomas Hofweber, Xiang Zhou, Elias Stengel-Eskin, Mohit Bansal  
 *TMLR 2024.* [[pdf](https://arxiv.org/pdf/2406.19354)] [[code](https://github.com/peterbhase/LLM-belief-revision)]
 
+**Unlearning Sensitive Information in Multimodal LLMs: Benchmark and Attack-Defense Evaluation**  
+Vaidehi Patil, Yi-Lin Sung, Peter Hase, Jie Peng, Tianlong Chen, Mohit Bansal  
+*TMLR 2024.* [[pdf](https://openreview.net/pdf?id=YcnjgKbZQS)] [[code](https://github.com/Vaidehi99/UnLOK-VQA)]
+
 **Rethinking Machine Unlearning for Large Language Models**  
 Sijia Liu, Yuanshun Yao, et al. including Peter Hase  
-*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2402.08787.pdf)  
+*Nature Machine Intelligence.* [[pdf]](https://arxiv.org/pdf/2402.08787.pdf)  
 
 **Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks**    
 Vaidehi Patil,* Peter Hase,* Mohit Bansal  
@@ -112,7 +116,7 @@ Prateek Yadav, Peter Hase, Mohit Bansal
 
 **Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback**  
 Stephen Casper, Xander Davies, et al. including Peter Hase  
-*TMLR 2023.* [[pdf]](https://openreview.net/pdf?id=bx24KpJ4Eb)  
+*TMLR 2023 (Outstanding Paper Finalist).* [[pdf]](https://openreview.net/pdf?id=bx24KpJ4Eb)  
 
 **GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models**  
 Archiki Prasad, Peter Hase, Xiang Zhou, Mohit Bansal  
