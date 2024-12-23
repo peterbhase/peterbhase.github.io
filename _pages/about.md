@@ -27,10 +27,17 @@ Broadly, I am interested in explaining and controlling the behavior of machine l
 
 *Email:* peter@cs.unc.edu
 
+[Faculty Package](peterbhase.github.io/files/faculty_package.pdf)
+
 [Google Scholar Page](https://scholar.google.com/citations?user=FO90FgMAAAAJ&hl=en)
 
 ## News
-* 2024 - I will serve as a Senior Area Chair for ACL 2025 in the Interpretability and Analysis of Models for NLP track
+* 2024 - Work on Open Problems and Fundamental Limitations of RLHF designated as an [Outstanding Paper Finalist](https://x.com/TmlrOrg/status/1869867719937401064) in TMLR
+* 2024 - Two papers accepted to TMLR on (1) [fundamental problems in model editing](https://arxiv.org/pdf/2406.19354) and (2) [unlearning for multimodal models](https://openreview.net/pdf?id=YcnjgKbZQS)
+* 2024 - Invited talk at TTIC's Young Researcher Seminar Series, "AI Safety Through Interpretable and Controllable Language Models" [[slides]](https://peterbhase.github.io/files/TTIC-talk.pdf)
+* 2024 - New paper on [training LLMs to be persuadable only when appropriate](https://arxiv.org/pdf/2410.14596)
+* 2024 - Paper accepted to NeurIPS on [calibrating LLMs' linguistic expressions of confidence](https://arxiv.org/pdf/2405.21028)
+* 2024 - I will serve as a Senior Area Chair for ACL 2025 in the Interpretability and Analysis of Models for NLP track  
 * 2024 - I am starting a residency at Anthropic! I will be working with [Sam Bowman](https://cims.nyu.edu/~sbowman/) on topics in AI safety. 
 * 2024 - We have several new papers on (1) [controlling how much LLMs verbalize vs. internalize their reasoning](https://arxiv.org/pdf/2407.14414), (2), [calibrating explicit and implicit confidence markers in LLM outputs](https://arxiv.org/pdf/2405.21028), and (3) [defining a philosophical basis for epistemic rationality in LLMs](https://arxiv.org/pdf/2406.03442). 
 * 2024 - My last PhD paper is out! "Fundamental Problems With Model Editing: How Should Rational Belief Revision Work in LLMs?" [[pdf]](https://arxiv.org/pdf/2406.19354) [[code]](https://github.com/peterbhase/LLM-belief-revision)
