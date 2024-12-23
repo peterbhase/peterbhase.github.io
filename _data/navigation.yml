@@ -14,5 +14,4 @@ main:
     url: /cv/
 
   - title: "Faculty Package"
-  - url: /files/faculty_package.pdf
-    
+  - url: /faculty/
