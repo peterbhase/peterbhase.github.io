@@ -27,7 +27,7 @@ Broadly, I am interested in explaining and controlling the behavior of machine l
 
 *Email:* peter@cs.unc.edu
 
-[Faculty Package](peterbhase.github.io/files/faculty_package.pdf)
+[Faculty Package](https://peterbhase.github.io/files/faculty_package.pdf)
 
 [Google Scholar Page](https://scholar.google.com/citations?user=FO90FgMAAAAJ&hl=en)
 
