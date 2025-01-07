@@ -16,7 +16,7 @@ redirect_from:
 
 ## About Me
 
-I am an AI researcher currently doing a residency at Anthropic. Before this, I completed my PhD at the University of North Carolina at Chapel Hill, where I was advised by Mohit Bansal. My work at UNC was supported by a Google PhD Fellowship and previously by a Royster Fellowship.
+I am an AI researcher currently doing a residency at Anthropic. Before this, I completed my PhD at the University of North Carolina at Chapel Hill, where I was advised by Mohit Bansal. My work at UNC was supported by a Google PhD Fellowship and a Royster Fellowship.
 
 My research focuses on AI safety and NLP. Below are some of the main areas I am interested in:
 1. Interpretability
