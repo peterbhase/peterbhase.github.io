@@ -20,7 +20,7 @@ I am an AI researcher currently doing a residency at Anthropic. Before this, I c
 
 My research focuses on AI safety and NLP. Below are some of the main areas I am interested in:
 1. Interpretability
-2. Model Editing
+2. Model Editing & Unlearning
 3. Scalable Oversight
 
 Broadly, I am interested in explaining and controlling the behavior of machine learning models. I see language models as a good object of study since we lack complete explanations for their behavior and human language provides a rich means of interaction with models. I find work on clarifying concepts and developing strong evaluation procedures especially valuable.
