@@ -64,7 +64,7 @@ Peter Hase, Chaofan Chen, Oscar Li, Cynthia Rudin
 Peter Hase, Shiyue Zhang, Harry Xie, Mohit Bansal  
 *Findings of EMNLP 2020.* [[pdf]](https://arxiv.org/pdf/2010.04119.pdf) [[code]](https://github.com/peterbhase/LAS-NL-Explanations)  
 
-## Model Editing
+## Model Editing & Unlearning
 
 **Fundamental Problems With Model Editing: How Should Rational Belief Revision Work in LLMs?**  
 Peter Hase, Thomas Hofweber, Xiang Zhou, Elias Stengel-Eskin, Mohit Bansal  
