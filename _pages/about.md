@@ -32,6 +32,7 @@ Broadly, I am interested in explaining and controlling the behavior of machine l
 [Google Scholar Page](https://scholar.google.com/citations?user=FO90FgMAAAAJ&hl=en)
 
 ## News
+* 2025 - Two papers accepted at ICLR, NAACL: work on [system 1.x reasoning](https://arxiv.org/pdf/2407.14414) (adjustable inference-time reasoning) accepted to ICLR; [persuasion-balanced training](https://arxiv.org/pdf/2410.14596) for teaching models to be appropriately persuadable accepted to NAACL
 * 2024 - Work on Open Problems and Fundamental Limitations of RLHF designated as an [Outstanding Paper Finalist](https://x.com/TmlrOrg/status/1869867719937401064) in TMLR
 * 2024 - Two papers accepted to TMLR on (1) [fundamental problems in model editing](https://arxiv.org/pdf/2406.19354) and (2) [unlearning for multimodal models](https://openreview.net/pdf?id=YcnjgKbZQS)
 * 2024 - Invited talk at TTIC's Young Researcher Seminar Series, "AI Safety Through Interpretable and Controllable Language Models" [[slides]](https://peterbhase.github.io/files/TTIC-talk.pdf)
