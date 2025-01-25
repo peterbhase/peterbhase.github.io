@@ -14,7 +14,7 @@ Papers are roughly grouped by topic below. For a full list, see my [Google Schol
 
 **System-1.x: Learning to Balance Fast and Slow Planning with Language Models**  
 Swarnadeep Saha, Archiki Prasad, Justin Chih-Yao Chen, Peter Hase, Elias Stengel-Eskin, Mohit Bansal  
-_Preprint on arXiv._ [[pdf](https://arxiv.org/pdf/2407.14414)] [[code](https://github.com/swarnaHub/System-1.x)]
+_ICLR 2025._ [[pdf](https://arxiv.org/pdf/2407.14414)] [[code](https://github.com/swarnaHub/System-1.x)]
 
 **Foundational Challenges in Assuring Alignment and Safety of Large Language Models** (Sec. 3.4)  
 Usman Anwar and 37 others including Peter Hase  
@@ -52,6 +52,10 @@ Peter Hase, Harry Xie, Mohit Bansal
 Han Guo, Nazneen Fatema Rajani, Peter Hase, Mohit Bansal, Caiming Xiong  
 *EMNLP 2021.* [[pdf]](https://arxiv.org/pdf/2012.15781.pdf) [[code]](https://github.com/salesforce/fast-influence-functions)  
 
+**Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?**  
+Peter Hase, Shiyue Zhang, Harry Xie, Mohit Bansal  
+*Findings of EMNLP 2020.* [[pdf]](https://arxiv.org/pdf/2010.04119.pdf) [[code]](https://github.com/peterbhase/LAS-NL-Explanations)  
+
 **Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?**  
 Peter Hase, Mohit Bansal  
 *ACL 2020.* [[pdf]](https://arxiv.org/pdf/2005.01831.pdf) [[code]](https://github.com/peterbhase/InterpretableNLP-ACL2020)  
@@ -59,10 +63,6 @@ Peter Hase, Mohit Bansal
 **Interpretable Image Recognition with Hierarchical Prototypes**  
 Peter Hase, Chaofan Chen, Oscar Li, Cynthia Rudin  
 *AAAI-HCOMP 2019.* [[pdf]](https://arxiv.org/pdf/1906.10651.pdf) [[code]](https://github.com/peterbhase/interpretable-image)  
-
-**Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?**  
-Peter Hase, Shiyue Zhang, Harry Xie, Mohit Bansal  
-*Findings of EMNLP 2020.* [[pdf]](https://arxiv.org/pdf/2010.04119.pdf) [[code]](https://github.com/peterbhase/LAS-NL-Explanations)  
 
 ## Model Editing & Unlearning
 
@@ -100,7 +100,7 @@ Swarnadeep Saha, Peter Hase, Mohit Bansal
 
 **Teaching Models to Balance Resisting and Accepting Persuasion**  
 Elias Stengel-Eskin, Peter Hase, and Mohit Bansal  
-_Preprint on arXiv._ [[pdf](https://arxiv.org/pdf/2410.14596)] [[code](https://github.com/esteng/persuasion_balanced_training)]
+_NAACL 2025._ [[pdf](https://arxiv.org/pdf/2410.14596)] [[code](https://github.com/esteng/persuasion_balanced_training)]
 
 **LACIE: Listener-Aware Finetuning for Confidence Calibration in Large Language Models**  
 Elias Stengel-Eskin, Peter Hase, and Mohit Bansal  
