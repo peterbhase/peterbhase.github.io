@@ -74,11 +74,9 @@
 
    a {
      text-decoration: none;
-     color: blue; /* or any specific blue color code you prefer */
    
      &:hover {
-       text-decoration: none;
-       color: darkblue; /* optional: different color on hover */
+       text-decoration: underline;
    
        img {
          box-shadow: 0 0 10px rgba(#000, 0.25);
