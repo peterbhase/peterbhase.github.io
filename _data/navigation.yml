@@ -13,5 +13,5 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Faculty Package"
-    url: /faculty/
+  # - title: "Faculty Package"
+  #   url: /faculty/
