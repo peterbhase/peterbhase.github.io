@@ -7,6 +7,12 @@ author_profile: true
 
 ## Talks
 
+**University of Chicago, CS and DSI Joint Colloquium**  
+“AI Safety Through Interpretable and Controllable Language Models” [[slides]](https://peterbhase.github.io/files/chicago_talk.pdf)
+
+**TTIC, Young Researcher Seminar Series**  
+“AI Safety Through Interpretable and Controllable Language Models” [[slides]](https://peterbhase.github.io/files/TTIC-talk.pdf)
+
 **Harvard University**  
 "Controlling and Editing Knowledge in Large Language Models" [[slides]](https://peterbhase.github.io/files/Stanford_Talk.pdf)  
 
