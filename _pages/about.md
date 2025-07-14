@@ -16,9 +16,11 @@ redirect_from:
 
 ## About Me
 
-I do research on AI safety and related topics. I recently completed a residency at Anthropic. Before this, I did my PhD at the University of North Carolina at Chapel Hill, where I was advised by Mohit Bansal. My work at UNC was supported by a Google PhD Fellowship and a Royster Fellowship.
+I do research in AI safety and interpretability. 
 
-My research focuses on AI safety and NLP. Below are some of the main areas I am interested in:
+I am currently a Visiting Scientist at Schmidt Sciences and a Visiting Researcher at the Stanford NLP Group, working with Chris Potts. Previously, I've been at Anthropic, AI2, Google, Meta, and the University of North Carolina at Chapel Hill, where I did my PhD.
+
+Below are some of the main research areas I am interested in:
 1. Interpretability
 2. Model Editing & Unlearning
 3. Scalable Oversight
