@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Peter Hase"
-  avatar           : "square-1-small.png"
+  avatar           : "square-1-smaller.png"
   bio              : "AI researcher interested in AI safety and interpretability"
   location         : "New York, NY"
   twitter          : "peterbhase"
