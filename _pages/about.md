@@ -18,7 +18,7 @@ redirect_from:
 
 I do research in AI safety and interpretability. 
 
-I am currently a Visiting Scientist at Schmidt Sciences and a Visiting Researcher at the Stanford NLP Group, working with Chris Potts. Previously, I've been at Anthropic, AI2, Google, Meta, and the University of North Carolina at Chapel Hill, where I did my PhD.
+I am currently an AI Institute Fellow at Schmidt Sciences and a Postdoctoral Researcher at the Stanford NLP Group, working with Chris Potts. Previously, I've been at Anthropic, AI2, Google, Meta, and the University of North Carolina at Chapel Hill, where I did my PhD.
 
 Below are some of the main research areas I am interested in:
 1. Interpretability
