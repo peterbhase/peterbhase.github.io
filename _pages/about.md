@@ -32,6 +32,9 @@ Broadly, I am interested in explaining and controlling the behavior of machine l
 [Google Scholar Page](https://scholar.google.com/citations?user=FO90FgMAAAAJ&hl=en)
 
 ## News
+* 2026 - Gave a few talks this spring: Tsinghua University, Oxford University, Imperial College London, ELLIS-Lisbon, Together AI, and NEC Europe. "LLM Interpretability: Faithful Reasoning and Controllable Knowledge" [[slides]](https://peterbhase.github.io/files/Paper%20Talk%202026.pdf)
+* 2026 - Gave a guest lecture in Stanford [CS338](https://web.stanford.edu/class/msande338/) (Aligning Superintelligence) on "Scalable Reward Learning" [[slides]](http://peterbhase.github.io/files/Scalable%20Reward%20Learning%20-%20CS338.pdf)
+* 2026 - Named an ICLR 2026 Top 200 Reviewer
 * 2026 - Two new interpretability papers out! (1) Counterfactual Simulation Training for CoT Faithfulness ([paper](https://arxiv.org/pdf/2602.20710), [code](https://github.com/peterbhase/counterfactual-simulation-training/tree/main?tab=readme-ov-file)), and (2) The Truthfulness Spectrum Hypothesis ([paper](https://arxiv.org/pdf/2602.20273), [code](https://github.com/zfying/truth_spec))
 * 2025 - New paper from Anthropic on [chain-of-thought faithfulness in reasoning models](https://assets.anthropic.com/m/71876fabef0f0ed4/original/reasoning_models_paper.pdf)!
 * 2025 - Two papers accepted at ICLR, NAACL: work on [system 1.x reasoning](https://arxiv.org/pdf/2407.14414) (adjustable inference-time reasoning) accepted to ICLR; [persuasion-balanced training](https://arxiv.org/pdf/2410.14596) for teaching models to be appropriately persuadable accepted to NAACL
