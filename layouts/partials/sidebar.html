@@ -1,0 +1,12 @@
+<div class="profile">
+  {{ with .Site.Params.photo }}
+  <img class="avatar" src="{{ . | relURL }}" alt="{{ $.Site.Params.author }}">
+  {{ end }}
+  <h1 class="name"><a href="{{ "/" | relURL }}">{{ .Site.Params.author }}</a></h1>
+  <p class="tagline">AI safety &amp; interpretability</p>
+  <ul class="links">
+    <li><a href="mailto:{{ .Site.Params.email }}">Email</a></li>
+    <li><a href="{{ .Site.Params.scholar }}">Google Scholar</a></li>
+    <li><a href="{{ .Site.Params.cv | relURL }}">CV</a></li>
+  </ul>
+</div>

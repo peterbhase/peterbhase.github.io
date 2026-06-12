@@ -1,0 +1,13 @@
+<nav class="tabs">
+  <ul>
+    {{ $current := . }}
+    {{ range .Site.Menus.main }}
+      {{ $ext := .Params.external }}
+      <li>
+        <a href="{{ if $ext }}{{ .URL }}{{ else }}{{ .URL | relURL }}{{ end }}"
+           {{ if $ext }}target="_blank" rel="noopener"{{ end }}
+           class="{{ if and (not $ext) ($current.IsMenuCurrent "main" .) }}active{{ else if and (not $ext) (eq .URL "/") $current.IsHome }}active{{ end }}">{{ .Name }}</a>
+      </li>
+    {{ end }}
+  </ul>
+</nav>

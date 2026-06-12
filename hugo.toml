@@ -1,0 +1,53 @@
+baseURL = "https://peterbhase.github.io/"
+languageCode = "en-us"
+title = "Peter Hase"
+enableEmoji = true
+disablePathToLower = true
+
+[params]
+  author = "Peter Hase"
+  description = "Peter Hase — AI safety and interpretability research."
+  email = "phase@schmidtsciences.org"
+  photo = "images/profile-photo.jpg"
+  scholar = "https://scholar.google.com/citations?user=FO90FgMAAAAJ&hl=en"
+  cv = "files/Hase_Peter_CV.pdf"
+  twitter = "https://x.com/peterbhase"
+  location = "New York, NY"
+
+# Top navigation tabs
+[[menu.main]]
+  name = "Bio"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Google Scholar"
+  url = "https://scholar.google.com/citations?user=FO90FgMAAAAJ&hl=en"
+  weight = 2
+  [menu.main.params]
+    external = true
+
+[[menu.main]]
+  name = "Blog Posts"
+  url = "/blog/"
+  weight = 3
+
+[[menu.main]]
+  name = "Talks"
+  url = "/talks/"
+  weight = 4
+
+[[menu.main]]
+  name = "CV"
+  url = "/files/Hase_Peter_CV.pdf"
+  weight = 5
+  [menu.main.params]
+    external = true
+
+[[menu.main]]
+  name = "(Old) News"
+  url = "/news/"
+  weight = 6
+
+[markup.goldmark.renderer]
+  unsafe = true
