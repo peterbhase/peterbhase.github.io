@@ -1,8 +1,6 @@
 ---
-title: ""
+title: "Bio"
 ---
-
-## Bio
 
 I do research in AI safety and interpretability.
 

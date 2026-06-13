@@ -2,7 +2,7 @@
 title: "(Old) News"
 ---
 
-An archive of past news and updates.
+A timeline of events that began when I started my PhD.
 
 * 2026 - Gave a few talks this spring: Tsinghua University, Oxford University, Imperial College London, ELLIS-Lisbon, Together AI, and NEC Europe. "LLM Interpretability: Faithful Reasoning and Controllable Knowledge" [[slides]](/files/Paper%20Talk%202026.pdf)
 * 2026 - Gave a guest lecture in Stanford [CS338](https://web.stanford.edu/class/msande338/) (Aligning Superintelligence) on "Scalable Reward Learning" [[slides]](/files/Scalable%20Reward%20Learning%20-%20CS338.pdf)

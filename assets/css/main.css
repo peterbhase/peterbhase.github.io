@@ -15,7 +15,7 @@ a:hover{text-decoration:underline}
 .banner{margin-bottom:8px}
 .profile{display:flex;align-items:center;gap:26px}
 @media(max-width:520px){.profile{flex-direction:column;text-align:center;gap:16px}}
-.avatar{width:172px;height:172px;border-radius:50%;object-fit:cover;display:block;flex:none}
+.avatar{width:172px;height:172px;border-radius:50%;object-fit:cover;display:block;flex:none;margin-left:-2px}
 .profile-text{min-width:0}
 .name{font-family:var(--serif);font-size:2rem;font-weight:600;margin:0 0 1px;line-height:1.15}
 .name a{color:var(--ink)}
@@ -38,9 +38,9 @@ a:hover{text-decoration:underline}
 .content{min-width:0}
 .body{font-size:1.04rem;max-width:680px}
 .page-title{font-family:var(--serif);font-size:1.7rem;font-weight:600;margin:0 0 18px}
-.body h2{font-family:var(--serif);font-weight:600;font-size:1.35rem;margin:1.8em 0 .5em}
+.body h2{font-family:var(--serif);font-weight:600;font-size:1.2rem;margin:1.5em 0 .25em}
 .body h3{font-weight:700;font-size:1.05rem;margin:1.4em 0 .4em}
 .body p{margin:.7em 0}
-.body ol,.body ul{padding-left:1.3em}
-.body li{margin:.35em 0}
+.body ol,.body ul{padding-left:1.3em;margin:.25em 0}
+.body li{margin:.18em 0}
 .body .yr{font-variant-numeric:tabular-nums;color:var(--accent);font-weight:600;margin-right:.4em}
