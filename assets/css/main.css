@@ -13,7 +13,7 @@ a:hover{text-decoration:underline}
 
 /* Banner */
 .banner{margin-bottom:8px}
-.profile{display:flex;align-items:center;justify-content:center;gap:26px}
+.profile{display:flex;align-items:center;gap:26px}
 @media(max-width:520px){.profile{flex-direction:column;text-align:center;gap:16px}}
 .avatar{width:172px;height:172px;border-radius:50%;object-fit:cover;display:block;flex:none}
 .profile-text{min-width:0}
@@ -29,14 +29,14 @@ a:hover{text-decoration:underline}
 
 /* Nav tabs */
 .tabs{border-bottom:1px solid var(--rule);margin:18px 0 30px}
-.tabs ul{list-style:none;display:flex;justify-content:center;flex-wrap:wrap;gap:32px;padding:0;margin:0}
+.tabs ul{list-style:none;display:flex;flex-wrap:wrap;gap:32px;padding:0;margin:0}
 .tabs a{display:inline-block;padding:8px 0 12px;color:var(--muted);font-weight:600;font-size:1.02rem;border-bottom:2px solid transparent;margin-bottom:-1px}
 .tabs a:hover{color:var(--ink);text-decoration:none}
 .tabs a.active{color:var(--ink);border-bottom-color:var(--accent)}
 
 /* Content */
 .content{min-width:0}
-.body{font-size:1.04rem}
+.body{font-size:1.04rem;max-width:680px}
 .page-title{font-family:var(--serif);font-size:1.7rem;font-weight:600;margin:0 0 18px}
 .body h2{font-family:var(--serif);font-weight:600;font-size:1.35rem;margin:1.8em 0 .5em}
 .body h3{font-weight:700;font-size:1.05rem;margin:1.4em 0 .4em}
