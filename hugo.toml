@@ -38,16 +38,9 @@ disablePathToLower = true
   weight = 4
 
 [[menu.main]]
-  name = "CV"
-  url = "/files/Hase_Peter_CV.pdf"
-  weight = 5
-  [menu.main.params]
-    external = true
-
-[[menu.main]]
   name = "(Old) News"
   url = "/news/"
-  weight = 6
+  weight = 5
 
 [markup.goldmark.renderer]
   unsafe = true
