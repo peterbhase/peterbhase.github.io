@@ -2,6 +2,10 @@
 title: "Blog Posts"
 ---
 
+## 2026
+
+- [CoT Monitoring: Where Does a Hot Safety Problem Come From?](https://ai.stanford.edu/blog/cot-monitoring-history/) — Stanford AI Lab Blog
+
 ## 2025
 
 - [Bootstrapping for ML Researchers](https://colab.research.google.com/drive/11Ep4lCu_qzl5P9k1yZW80G84fDlHvAs7) — Colab notebook
