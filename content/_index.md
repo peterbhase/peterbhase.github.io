@@ -10,4 +10,4 @@ Historically, I have done research in interpretability, monitoring, unlearning, 
 
 Broadly, I am interested in explaining and controlling the behavior of machine learning models. I see language models as a good object of study since we lack complete explanations for their behavior and human language provides a rich means of interaction with models. I find work on clarifying concepts and developing strong evaluation procedures especially valuable.
 
-I take some pride in reviewing for the community. I've served on 40+ program committees (i.e., reviewing/ACing/SACing), receiving three reviewer awards and two AC awards.
+I take some pride in my work as a reviewer over the years. I've served on 40+ program committees (i.e., reviewing/ACing/SACing papers for conferences/journals), receiving three reviewer awards and two AC awards.
