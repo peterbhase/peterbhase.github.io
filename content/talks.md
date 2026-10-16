@@ -10,6 +10,8 @@ title: "Talks"
 - **ELLIS-Lisbon** — *Ibid.*
 - **Together AI** — *Ibid.*
 - **NEC Europe** — *Ibid.*
+- **Duke University** — *Ibid.*
+- **University of Pennsylvania** — Blackbox and Whitebox Monitoring [[slides]](/files/Monitoring%202026.pdf)
 - **Stanford University, CS338 (Aligning Superintelligence), guest lecture** — Scalable Reward Learning [[slides]](/files/Scalable%20Reward%20Learning%20-%20CS338.pdf)
 
 ## 2025
